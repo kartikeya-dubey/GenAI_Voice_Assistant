@@ -16,3 +16,6 @@ Groq,
 LangChain,
 StreamLit,
 Media Player.
+
+> [!NOTE]
+> For codes, you may request collaboration on kartikeyadubey1997@outlook.com.
