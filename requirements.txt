@@ -1,0 +1,22 @@
+langchain_core
+langchain_community
+langchain_cohere
+langchain_groq
+
+python-dotenv
+cohere
+
+#voice recorder
+pvrecorder
+
+#TTS / STT conversions
+deepgram-sdk
+
+#GUI
+streamlit
+
+#Monitoring
+langserve
+fastapi
+
+#EXT S/W: mpv.exe (media player to play generated audio files)
